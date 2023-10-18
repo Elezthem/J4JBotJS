@@ -1,0 +1,23 @@
+{
+  "name": "oxi",
+  "version": "0.0.1",
+  "description": "oxi.",
+  "main": "oxi.js",
+  "scripts": {
+    "start": "node oxi.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.17.1",
+    "node": "^16.3.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
