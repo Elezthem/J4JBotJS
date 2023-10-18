@@ -114,4 +114,4 @@ client.on("ready", () => {
      oxi.send("J4J dm me"); //oxi
   }, 200); //oxi
 });
-client.login("MTE2MDY0MTU2NDQzNjA5MDkzMA.GZYKKF.2uaGFCTpw0okCywH4119x9pkLeEnL5h3Gk1iLA")
+client.login("u token")
